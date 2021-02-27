@@ -1,0 +1,28 @@
+Äräättitömäs north=Käänli south=Tise east=Tentottattahkis west=Asta
+Esää south=Ahatrotton east=Eslülürrelli west=Pälä
+Tarhima north=Pälä south=Villoo east=Ahatrotton west=Äntinti
+Elänötkise north=Alarke east=Irödi west=Ettipehäneen
+Asta north=Irie south=Ela east=Äräättitömäs
+Eslülürrelli south=Anuhtakaa west=Esää
+Käänli north=Äntinti south=Äräättitömäs east=Villoo west=Irie
+Ääksinni north=Sänähä south=Äütees east=Isto west=Tentottattahkis
+Ettipehäneen north=Tise east=Elänötkise west=Tiitoo
+Villoo north=Tarhima south=Tentottattahkis east=Sänähä west=Käänli
+Anuhtakaa north=Eslülürrelli south=Kenidölliltin west=Ahatrotton
+Äntinti north=Imma south=Käänli east=Tarhima west=Suris
+Sänähä north=Ahatrotton south=Ääksinni east=Kenidölliltin west=Villoo
+Saarkoo south=Suris east=Imma
+Ela north=Asta south=Tiitoo east=Tise
+Tise north=Äräättitömäs south=Ettipehäneen east=Alarke west=Ela
+Tiitoo north=Ela east=Ettipehäneen
+Kenidölliltin north=Anuhtakaa south=Isto west=Sänähä
+Imma south=Äntinti east=Pälä west=Saarkoo
+Irödi north=Äütees west=Elänötkise
+Suris north=Saarkoo south=Irie east=Äntinti
+Ahatrotton north=Esää south=Sänähä east=Anuhtakaa west=Tarhima
+Irie north=Suris south=Asta east=Käänli
+Pälä south=Tarhima east=Esää west=Imma
+Isto north=Kenidölliltin west=Ääksinni
+Tentottattahkis north=Villoo south=Alarke east=Ääksinni west=Äräättitömäs
+Äütees north=Ääksinni south=Irödi west=Alarke
+Alarke north=Tentottattahkis south=Elänötkise east=Äütees west=Tise
