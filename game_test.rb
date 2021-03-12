@@ -3,7 +3,7 @@
 require 'minitest/autorun'
 require_relative 'game'
 
-class TestGameEngine < MiniTest::Unit::TestCase
+class TestGameEngine < MiniTest::Test
   attr_reader :map, :sampler, :game
 
   def setup

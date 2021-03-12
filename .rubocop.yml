@@ -9,3 +9,9 @@ Metrics/AbcSize:
 
 AllCops:
   NewCops: enable
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Metrics/CyclomaticComplexity:
+  Enabled: false

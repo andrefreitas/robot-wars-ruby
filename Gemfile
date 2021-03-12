@@ -3,3 +3,4 @@
 source 'https://rubygems.org'
 gem 'pry'
 gem 'rubocop'
+gem 'ruby2d'

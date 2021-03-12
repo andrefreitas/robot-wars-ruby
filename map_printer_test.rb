@@ -10,7 +10,7 @@ Braga south=Porto
 Sea east=Porto
 Guarda west=Porto)
 
-class TestMapPrinter < MiniTest::Unit::TestCase
+class TestMapPrinter < MiniTest::Test
   def test_print_empty
     assert_equal '', MapPrinter.print({})
   end
